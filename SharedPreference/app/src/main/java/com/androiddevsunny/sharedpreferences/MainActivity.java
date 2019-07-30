@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     SharedPreferences sharedPreferences;
 
+    // TODO: 31/07/19 Change android studio version to the android studio version installed in your system in build.gradle file. 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
